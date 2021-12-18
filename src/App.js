@@ -10,7 +10,7 @@ const App = () => {
     App: {
       backgroundColor: "black",
       color: "white",
-      minHeight: "100vh",
+      minHeight: "10vh",
     },
   }));
 
